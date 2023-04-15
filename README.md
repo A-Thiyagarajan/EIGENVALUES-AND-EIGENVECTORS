@@ -19,6 +19,9 @@ Using the np.linalg.eig(), we get two results (first is eigenvalue and second is
 End the program
 ## Program:
 ```
+#Program to find the eigen values and eigen vectors.
+#Developed by: A.Thiyagrajan
+#RegisterNumber:212222240110
 import numpy as np
 A=np.array([[4,2],[2,4]])
 evaluate,evector=np.linalg.eig(A)
